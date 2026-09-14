@@ -1,5 +1,18 @@
 # 💫 About Me:
-<br><br>I'm Mohammed Owais, a Computer Science Engineering student who enjoys turning ideas into things that actually work — and occasionally figuring out why they suddenly stopped working.<br><br>My journey in technology is driven by curiosity, problem-solving, and a simple belief: the best way to learn something is to build with it. I'm currently strengthening my skills in Java, Python, C, HTML, CSS, and MySQL, while continuously expanding my understanding of Computer Science and software development. I'm particularly focused on Java and Data Structures & Algorithms to build a strong foundation in programming and problem-solving.<br><br>I've worked on academic projects such as a Student Admission Portal, participated in innovation-focused ideathons, and taken part in collaborative activities where teamwork, creativity, and problem-solving matter just as much as technical knowledge.<br><br>Recently, I've developed a growing interest in Machine Learning and Artificial Intelligence, and I'm excited to explore this field more deeply. I'm currently working with Python as I begin my journey into Machine Learning, learning how intelligent systems are built and how data can be used to solve real-world problems. I'm still at the learning and exploration stage, but I'm actively working toward building Machine Learning projects and turning what I learn into practical applications.<br><br>I'm also exploring R as I continue expanding my knowledge in data and machine learning. My goal is to gradually bring together my programming, problem-solving, and data skills to build projects that are not only technically interesting but also genuinely useful.<br><br>I enjoy taking a concept from “this could be interesting” to “let's actually build it” — one experiment, one bug, and one commit at a time.<br><br>When I'm not coding, you'll probably find me at the gym, exploring new technologies, working on a random idea that appeared at an inconvenient hour, or simply enjoying some downtime. I believe consistency, curiosity, and the willingness to keep learning are just as important as knowing a programming language.<br><br>My goal is to grow into a skilled software engineer with a strong foundation in problem-solving and a deeper specialization in AI/ML — someone who doesn't just write code, but builds useful, reliable, and meaningful solutions that people actually want to use.<br><br>Still learning. Still building. Still breaking things.<br>But getting better with every commit
+<br><br>I'm Mohammed Owais, a Computer Science Engineering student who enjoys turning ideas into things that actually work — and occasionally figuring out why they suddenly stopped working.
+
+My journey in technology is driven by curiosity, problem-solving, and a belief that the best way to learn is to build. I'm currently strengthening my skills in Java, Python, C, HTML, CSS, and MySQL, with a strong focus on Java and Data Structures & Algorithms to build a solid foundation in programming and problem-solving.
+
+I've worked on academic projects like a Student Admission Portal, participated in innovation-focused ideathons, and gained experience through collaborative activities involving teamwork and creativity.
+
+I'm increasingly interested in Artificial Intelligence and Machine Learning and am currently exploring the field using Python, while also learning R and working toward building practical ML projects. I'm excited to understand how data and intelligent systems can be used to solve real-world problems.
+
+I enjoy taking an idea from “this could be interesting” to “let's actually build it” — one experiment, one bug, and one commit at a time.
+
+My goal is to grow into a skilled software engineer with a strong foundation in problem-solving and a specialization in AI/ML, building useful, reliable, and meaningful solutions.
+
+Still learning. Still building. Still breaking things.
+But getting better with every commit.
 
 
 ## 🌐 Socials:
