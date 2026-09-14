@@ -1,16 +1,18 @@
-## Hi there 👋
+# 💫 About Me:
+<br><br>I'm Mohammed Owais, a Computer Science Engineering student who enjoys turning ideas into things that actually work — and occasionally figuring out why they suddenly stopped working.<br><br>My journey in technology is driven by curiosity, problem-solving, and a simple belief: the best way to learn something is to build with it. I'm currently strengthening my skills in Java, Python, C, HTML, CSS, and MySQL, while continuously expanding my understanding of Computer Science and software development. I'm particularly focused on Java and Data Structures & Algorithms to build a strong foundation in programming and problem-solving.<br><br>I've worked on academic projects such as a Student Admission Portal, participated in innovation-focused ideathons, and taken part in collaborative activities where teamwork, creativity, and problem-solving matter just as much as technical knowledge.<br><br>Recently, I've developed a growing interest in Machine Learning and Artificial Intelligence, and I'm excited to explore this field more deeply. I'm currently working with Python as I begin my journey into Machine Learning, learning how intelligent systems are built and how data can be used to solve real-world problems. I'm still at the learning and exploration stage, but I'm actively working toward building Machine Learning projects and turning what I learn into practical applications.<br><br>I'm also exploring R as I continue expanding my knowledge in data and machine learning. My goal is to gradually bring together my programming, problem-solving, and data skills to build projects that are not only technically interesting but also genuinely useful.<br><br>I enjoy taking a concept from “this could be interesting” to “let's actually build it” — one experiment, one bug, and one commit at a time.<br><br>When I'm not coding, you'll probably find me at the gym, exploring new technologies, working on a random idea that appeared at an inconvenient hour, or simply enjoying some downtime. I believe consistency, curiosity, and the willingness to keep learning are just as important as knowing a programming language.<br><br>My goal is to grow into a skilled software engineer with a strong foundation in problem-solving and a deeper specialization in AI/ML — someone who doesn't just write code, but builds useful, reliable, and meaningful solutions that people actually want to use.<br><br>Still learning. Still building. Still breaking things.<br>But getting better with every commit
 
-<!--
-**owais-core03/owais-core03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/owa_s_03) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/md-owais-b4141734b/) [![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?logo=mastodon&logoColor=white)](https://mastodon.social/@Md Owais) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mdowais859@gmail.com) 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Apache Tomcat](https://img.shields.io/badge/apache%20tomcat-%23F8DC75.svg?style=for-the-badge&logo=apache-tomcat&logoColor=black) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=owais-core03&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=owais-core03&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=owais-core03&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+---
+[![](https://komarev.com/ghpvc/?username=owais-core03&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
