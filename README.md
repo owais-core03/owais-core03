@@ -3,8 +3,6 @@
 
 My journey in technology is driven by curiosity, problem-solving, and a belief that the best way to learn is to build. I'm currently strengthening my skills in Java, Python, C, HTML, CSS, and MySQL, with a strong focus on Java and Data Structures & Algorithms to build a solid foundation in programming and problem-solving.
 
-I've worked on academic projects like a Student Admission Portal, participated in innovation-focused ideathons, and gained experience through collaborative activities involving teamwork and creativity.
-
 I'm increasingly interested in Artificial Intelligence and Machine Learning and am currently exploring the field using Python, while also learning R and working toward building practical ML projects. I'm excited to understand how data and intelligent systems can be used to solve real-world problems.
 
 I enjoy taking an idea from “this could be interesting” to “let's actually build it” — one experiment, one bug, and one commit at a time.
